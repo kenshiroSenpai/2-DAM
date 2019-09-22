@@ -7,6 +7,15 @@ For now, have an error searching for a list that you cannot find but will be fix
 
 ## Screenshot
 
-![Image](https://github.com/kenshiroSenpai/2-DAM/blob/master/screenshot/photo_2019-09-22_13-55-08.jpg)
-![Image](https://github.com/kenshiroSenpai/2-DAM/blob/master/screenshot/photo_2019-09-22_13-55-08.jpg)
-![Image](https://github.com/kenshiroSenpai/2-DAM/blob/master/screenshot/photo_2019-09-22_13-55-08.jpg)
+![alt text](https://github.com/kenshiroSenpai/2-DAM/raw/master/screenshot/photo_2019-09-22_13-55-08.jpg)
+
+![alt text](https://github.com/kenshiroSenpai/2-DAM/raw/master/screenshot/photo_2019-09-22_13-55-10.jpg)
+
+![alt text](https://github.com/kenshiroSenpai/2-DAM/raw/master/screenshot/photo_2019-09-22_13-55-12.jpg)
+
+## Acknowledgments
+NodeJs: [NodeJS](https://nodejs.org/es/docs/).
+
+Android Studio: [AndroidStudio](https://developer.android.com/docs) and [Kotlin](https://kotlinlang.org/docs/reference/kotlin-doc.html).
+
+Postman: [Postman](https://documenter.getpostman.com/view/8800418/SVmyQwxD)
