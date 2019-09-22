@@ -4,6 +4,7 @@
 #### ListApp: This folder contain the front-end.It is made with Android Studio(Kotlin)
 **ListApp** is a app that show shopping list, can search list in database and show all shopping lists.
 For now, have an error searching for a list that you cannot find but will be fixed in the future.
+In this app, I use a recyclerView for show list, and if you pressed a list, you can see that contain this list.
 
 ## Screenshot
 
