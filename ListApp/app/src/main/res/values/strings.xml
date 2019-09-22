@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonPostList">Search</string>
+    <string name="editText">List...</string>
+    <string name="tagList">List</string>
+    <string name="welcomeMessage">Hello, You can create list here</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="buttonShowList">ButtonShowList</string>
+    <string name="TextView3">Text</string>
+    <string name="buttonPage2">ButtonPage2</string>
+    <string name="welcome">Welcome, search list in the input</string>
+</resources>
